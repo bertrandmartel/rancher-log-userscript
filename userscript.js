@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  enlarge log window when viewing log on your rancher instance
 // @author       Bertrand Martel
-// @downloadURL  https://github.com/bertrandmartel/rancher-log-userscript/raw/master/log.js
+// @downloadURL  https://raw.githubusercontent.com/bertrandmartel/rancher-log-userscript/master/userscript.js
 // @include      /^https?:\/\/your.rancher.host/.*$/
 // ==/UserScript==
 
