@@ -2,13 +2,15 @@
 
 A small JS userscript used to enlarge the log view on Rancher server & makes it scale to the window size
 
+Tested on Rancher server v1.6.13
+
 ## Before
 
-![log_actual](https://user-images.githubusercontent.com/5183022/34419268-22580926-ec03-11e7-9104-78443ff5fcc6.png)
+![log_actual](https://user-images.githubusercontent.com/5183022/34428867-48e0f906-ec51-11e7-97a8-a89eb929883b.png)
 
 ## After
 
-![log_enlarge](https://user-images.githubusercontent.com/5183022/34419270-226c6c90-ec03-11e7-977d-38f59ab47da5.png)
+![log_enlarge](https://user-images.githubusercontent.com/5183022/34428820-c9f75018-ec50-11e7-8171-ec84ca63e81f.png)
 
 ## Usage
 
